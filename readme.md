@@ -15,3 +15,8 @@ And then in a second window run with:
 ```
 npm run app
 ```
+
+In a third window, you must also run the data server with:
+```
+npm run data
+```
